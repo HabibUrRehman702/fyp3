@@ -1,0 +1,26 @@
+node_modules/
+.expo/
+.expo-shared/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+*.log
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.production
+
+# VS Code
+.vscode/
+
+# Temporary
+*.tmp
+*.temp

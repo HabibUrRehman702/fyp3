@@ -1,0 +1,11 @@
+# Placeholder Asset Files
+
+The actual icon, splash, and adaptive-icon images need to be created.
+
+For now, the app will use Expo's default assets.
+
+To add custom assets later:
+1. Create icon.png (1024x1024)
+2. Create splash.png (2048x2048)
+3. Create adaptive-icon.png (1024x1024)
+4. Create favicon.png (48x48)
